@@ -8,3 +8,6 @@ UFO-level-1 directory - This contains all the files necessary for this webpage
     1. css directory - contains all styling components for webpage
     1. images directory - contains all images for webpage    
     1. js directory - contains both **app.js** and **data.js** files. The **app.js** file contains the code necessary to poplate and filter the table. This also handl;es the click events. The **data.js** file contains the UFO data.
+    
+## Future Directions
+I would like to work on changing the filter criteria to more than just the date. This would mean a change in the filtering and would also have to change the html so the user knows they could filter with items other than the date.
